@@ -33,8 +33,6 @@ def mostrar_menu():
     print("")
     
         
-
-agregar_producto()
 agregar_producto()
 consultar_producto()
 eliminar_producto()
