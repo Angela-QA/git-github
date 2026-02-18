@@ -31,8 +31,8 @@ def eliminar_producto():
 
 def mostrar_menu():
     print("")
-    
-        
+def saludo():
+    return "Hola Github mi primer cambio para la nube"
 agregar_producto()
 consultar_producto()
 eliminar_producto()
